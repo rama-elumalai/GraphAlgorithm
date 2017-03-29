@@ -1,4 +1,4 @@
-package djisktra;
+package bellmanford;
 
 /**
  * Created by luvra_000 on 3/28/2017.

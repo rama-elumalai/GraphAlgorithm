@@ -1,4 +1,4 @@
-package djisktra;
+package bellmanford;
 
 import java.util.ArrayList;
 import java.util.List;
